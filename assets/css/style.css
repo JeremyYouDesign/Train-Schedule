@@ -1,0 +1,43 @@
+#schedule-div {
+    background-color: rgba(255, 255, 255, 0.45);
+    border-radius: 3px;
+}
+
+header {
+    background-color: rgba(218, 246, 255, 0.45);
+    padding: 25px;
+}
+
+#add-div,
+#header-2 {
+    margin-top: 25px;
+    background-color: rgba(218, 246, 255, 0.45); 
+    border-radius: 3px;
+}
+
+#add-div {
+    padding: 25px;
+    border-radius: 3px;
+}
+
+body {
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-attachment: center, fixed;
+    background-size: cover;
+    max-width: 100%;
+    font-family: 'Lora', serif;
+}
+
+hr {
+    color: white;
+}
+
+#submit {
+    background-color: rgb(106, 201, 233);
+    color: whitesmoke;
+}
+
+#submit:hover {
+    background-color: rgba(83, 139, 158, 0.8);
+}
